@@ -1,0 +1,8 @@
+
+<suite name="Test Suite">
+  <test name="Cucumber Test">
+    <classes>
+      <class name="runners.TestRunner"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
